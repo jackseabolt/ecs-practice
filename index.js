@@ -17,5 +17,3 @@ app.get('/test', (req, res) => {
 app.listen(8080, () => {
     console.log("app listening on 8080"); 
 }); 
-
-console.log("test"); 
